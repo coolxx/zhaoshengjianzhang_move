@@ -181,9 +181,9 @@ nav{
 	background: url(../image/jt.png) no-repeat 238px center;
 	display: block;
 }
-.foot a:nth-child(1){
+.foot a:nth-child(2){
 	margin-top: 34px;
 }
-.foot a:nth-child(3){
+.foot a:nth-child(4){
 	margin-bottom: 20px;
 }
